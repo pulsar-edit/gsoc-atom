@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being a temporary project.
+
 # Google Summer of Code Project – Atom Security
 
 This is a research project with the aim of discovering techniques we can apply to provide better security in Atom without sacrificing Atom's current power and flexibility. Summer of Code fellow @pandrei will be heading the project, and @nathansobo will be the contact on the core team. Progress reports and discussions for the project as a whole will take place on this repository. It will also include links to relevant repositories where work is taking place here.
